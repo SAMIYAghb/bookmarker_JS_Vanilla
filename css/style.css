@@ -1,0 +1,25 @@
+.container{
+    width: 80%;
+    margin: 15px auto;
+}
+.header .container{
+    border-bottom: 1px solid #999;
+}
+.container h2{
+    color: #aaaaaa;
+}
+.sect{
+    background-color: #eeeeee;
+}
+.bttn{
+    background-color: #1167c4;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+.website{
+    background-color:  #eeeeee;
+}
+.footer .container{
+    border-top: 1px solid #999;
+}
